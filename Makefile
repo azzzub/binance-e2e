@@ -1,7 +1,7 @@
 setup: env install
 
 env:
-	cp .env.example.env .env
+	cp .env.example .env
 
 install:
 	npm install
