@@ -1,0 +1,6 @@
+node_modules
+*.log
+*.html
+.env
+*.pem
+.DS_Store

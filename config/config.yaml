@@ -1,0 +1,10 @@
+spotTrading:
+  host: https://testnet.binance.vision
+  endpoints:
+    depth: /api/v3/depth
+    order: /api/v3/order
+    openOrders: /api/v3/openOrders
+    myTrades: /api/v3/myTrades
+    account: /api/v3/account
+websocket:
+  host: wss://stream.binance.com:9443/ws
