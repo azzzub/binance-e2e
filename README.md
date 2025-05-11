@@ -21,8 +21,9 @@ This will install the dependencies and create a `.env` file
 ```bash
 make generate_key
 ```
-2. Copy the public key and register it on Testnew Binance
-3. Copy the API key that generated after you register the public key into `.env` file
+2. Public key and private key will be generated and located in the root folder
+3. Copy the public key and register it on Testnew Binance
+4. Copy the API key that generated after you register the public key into `.env` file
 
 ## Run the Test
 
